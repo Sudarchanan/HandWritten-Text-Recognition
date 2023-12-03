@@ -4,7 +4,7 @@ setup(
     name='htr-pipeline',
     version='1.0.0',
     description='Handwritten text recognition pipeline.',
-    author='SUJAN',
+    author='Sudarchanan',
     packages=find_namespace_packages(),
     install_requires=['numpy==1.21.0',
                       'tensorflow==2.11.0',
